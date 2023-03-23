@@ -1,0 +1,37 @@
+.responseDiv {
+  padding: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.responseDiv img {
+  width: 162px;
+  height: 108px;
+}
+.responseDiv h3 {
+  width: 193px;
+  height: 32px;
+  margin: 32px 0;
+  color: #fc7614;
+  font-weight: 400;
+  font-size: 15px;
+  background-color: #262e38;
+  border-radius: 22.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.responseDiv h1 {
+  font-weight: 700;
+  font-size: 28px;
+  color: #ffffff;
+  margin-block-end: 0;
+  margin-block-start: 0;
+}
+.responseDiv p {
+  font-weight: 400;
+  font-size: 15px;
+  color: #969fad;
+  margin-top: 7px;
+  text-align: center;
+}
